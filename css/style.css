@@ -128,5 +128,9 @@ margin: 100px 0;
   font-size: .75rem;
   padding: 20px 0 ;
 }
-
+.pro{
+height : 20%;
+width :20%;
+border-radius : 50%;
+}
 /*--------------------------------------------------*/
